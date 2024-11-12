@@ -11,7 +11,8 @@
     "url": "git+https://github.com/zhuhai-web/picasso-fingerprint-vue.git"
   },
   "keywords": [
-    "picasso"
+    "picasso",
+    "picasso-fingerprint"
   ],
   "author": "N",
   "license": "ISC",
