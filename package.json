@@ -1,0 +1,22 @@
+{
+  "name": "picasso-fingerprint-vue",
+  "version": "1.0.0",
+  "description": "picasso fingerprint function for vue",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuhai-web/picasso-fingerprint-vue.git"
+  },
+  "keywords": [
+    "picasso"
+  ],
+  "author": "N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuhai-web/picasso-fingerprint-vue/issues"
+  },
+  "homepage": "https://github.com/zhuhai-web/picasso-fingerprint-vue#readme"
+}
